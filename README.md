@@ -1,12 +1,20 @@
-# React + Vite
+# 🍳 AI Recipe Suggester
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Turn your ingredients into tasty meals in seconds.  
+Type what you have (e.g., `tomato, basil, garlic 🧄`) and get a chef-style recipe back—fast, simple, and pretty. 😋
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Description
 
-## Expanding the ESLint configuration
+**AI Recipe Suggester** is a minimalist React app that converts a plain list of ingredients into a complete recipe. No extra steps or clutter—just enter ingredients and receive clear instructions you can cook right away. Perfect for quick dinners, student meals, or last-minute inspiration. 🥦🍝
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ✍️ **Type Your Ingredients** — Paste or type any list of ingredients you have on hand.
+- 🤖 **Instant AI Recipe** — Get a generated recipe with a title and concise steps based on your input.
+- 🎨 **Clean UI** — Clean UI that looks great on desktop and mobile.
+
+---
