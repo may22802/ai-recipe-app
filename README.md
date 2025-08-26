@@ -3,6 +3,7 @@
 Turn your ingredients into tasty meals in seconds.  
 Type what you have (e.g., `tomato, basil, garlic 🧄`) and get a chef-style recipe back—fast, simple, and pretty. 😋
 
+![Preview](./src/assets/preview(2).png)
 ---
 
 ## 📝 Description
